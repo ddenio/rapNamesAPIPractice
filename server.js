@@ -3,6 +3,7 @@ const app = express()
 const cors = require('cors')
 const PORT = process.env.PORT || 8000
 
+//npm install cors --save
 app.use(cors())
 
 const rappers = {
