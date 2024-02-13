@@ -44,4 +44,4 @@ app.listen(PORT, ()=>{
     console.log(`The server is now running on port ${PORT}! Betta go catch it!`)
 })
 
-module.exports = app;
+
